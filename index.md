@@ -5,7 +5,7 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is Levi Gayet
+Hello! My name is Levi Gayet
 
 ### Development Environment
 
