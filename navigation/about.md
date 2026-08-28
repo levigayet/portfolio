@@ -61,7 +61,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN5QGHJ43KxhYaXmyF2GQKYQZnD9gc5MvuSjwp5qT7K1SCtiey5wGus_k&s=10", "greeting": "hey", "description": "Sweden - 16% of the year"}
+        {"flag": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.flagsonline.it%2Fsweden&opi=89978449", "greeting": "hey", "description": "Sweden - 16% of the year"}
         ];
 
     // 3a. Consider how to update style count for size of container
@@ -120,4 +120,5 @@ Everything for me, as for many others, revolves around family and faith.
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
+<img src= "{{}}>
 </div>
