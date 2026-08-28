@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived or Vistied
+Here are some places I have lived or vistied
 
 <comment>
 Flags are made using Wikipedia images
@@ -61,7 +61,6 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
         {"flag": "https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg", "greeting": "hey", "description": "Sweden - 16% of the year"}
         ];
 
