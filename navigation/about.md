@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived or vistied
+Here are some places I have lived.
 
 <comment>
 Flags are made using Wikipedia images
@@ -61,8 +61,10 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.flagsonline.it%2Fsweden&opi=89978449", "greeting": "hey", "description": "Sweden - 16% of the year"}
-        ];
+        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
+        {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
+        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
+    ];
 
     // 3a. Consider how to update style count for size of container
     // The grid-template-columns has been defined as dynamic with auto-fill and minmax
@@ -113,12 +115,24 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family and faith.
 
-- My mom and dad are both swedish and part french so now aswell I am. [family tree]({{site.baseurl}}/images/about/familytree.png)
-- I have dad, mom and a twin sister that I live with, and a dog that is a husky.
+- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
+- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
+- The gallery of pics has some of my family, fun, culture and faith memories.
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
 <div class="image-gallery">
-<img src= "{{}}>
+  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
+  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
+  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
+  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
+  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
+  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
+  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
+  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
+  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
 </div>
