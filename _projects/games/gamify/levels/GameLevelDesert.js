@@ -8,6 +8,7 @@ import AiNpc from '@assets/js/GameEnginev1.1/essentials/AiNpc.js';
 import Clicker from '@assets/js/GameEnginev1.1/essentials/Clicker.js';
 import Coin from '@assets/js/GameEnginev1.1/Coin.js';
 import GameLevelStarWars from './GameLevelStarWars.js';
+import GameLevelStarWars from './GameLevelStarWars.js';
 import PlatformerMini from './PlatformerMini.js';
 
 // Import PlatformerMini (game-in-game)
@@ -17,6 +18,7 @@ class GameLevelDesert {
         let width = gameEnv.innerWidth;
         let height = gameEnv.innerHeight;
         let path = gameEnv.path;
+
 
 
         // Background data
@@ -729,8 +731,8 @@ class GameLevelDesert {
         ];
 
     } // End of GameLevelDesert constructor
-
-} // End of GameLevelDesert class
+}
+   
 
 
 export default GameLevelDesert;
